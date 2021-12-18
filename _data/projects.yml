@@ -5,11 +5,10 @@
   image: federalist.png
   link: https://federalist.18f.gov
   about: |
-    <a href="https://federalist.18f.gov">Federalist</a> is a static site platform for compliantly hosting federal web sites.
-    It greatly reduces the arduous compliance burden of federal offices that want to launch web sites, which saves
-    a large amount of staff time and resources for those offices. Federalist hosts over 100 sites and completes over 1,000 builds per week.
+    <a href="https://www.tispace.com/">Rod Magnetic Torquer</a> is an electromagnetic unit that generates magnetic field, and its main purpose is to provide torque for spacecraft during its detumbling process and unloading reaction wheels.
+    Due to its characteristics, such as, low power consumption, easy manufacturing, and long duration, this actuator is mainly used in spacecrafts flying over low earth orbit.
     <br/>
-    I am currently the engineering lead on this project, building upon the great work of previous 18F developers.
+    In this project, I designed the shape of the core material and selected the material. And also, I developed a optimization method to obtain the maximum magneti dipole.
 - name: Helmholtz Cage
   organization: TiSpace
   github_repo:
