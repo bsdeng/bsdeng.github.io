@@ -19,6 +19,26 @@
     and its main purpose is to simulate earth's magnetic field. The cage dimension is calculate according to the spacecraft size and the wire gauge must be thick enough.
     The square shape helmholtz was selected due to easy manufacturing and assembling process.
     <br/>
+- name: Magnetorquer
+  organization: TiSpace
+  github_repo: 
+  image:
+  link: https://www.tispace.com/
+  about: |
+    <a href="https://www.tispace.com/">Rod Magnetic Torquer</a> is an electromagnetic unit that generates magnetic field, and its main purpose is to provide torque for spacecraft during its detumbling process and unloading reaction wheels.
+    Due to its characteristics, such as, low power consumption, easy manufacturing, and long duration, this actuator is mainly used in spacecrafts flying over low earth orbit.
+    <br/>
+    In this project, I designed the shape of the core material and selected the material. And also, I developed a optimization method to obtain the maximum magneti dipole.
+- name: Helmholtz Cage
+  organization: TiSpace
+  github_repo:
+  image:
+  link: https://www.tispace.com/
+  about: |
+    <a href="https://www.tispace.com/">Helmholtz Cage</a> is composed by three sets of pair coils for each axis. 
+    and its main purpose is to simulate earth's magnetic field. The cage dimension is calculate according to the spacecraft size and the wire gauge must be thick enough.
+    The square shape helmholtz was selected due to easy manufacturing and assembling process.
+    <br/>
 # - name: CMS Medicaid Provider Charge Data Viz
 #   image: cmsviz.png
 #   link: https://jseppi.github.io/cms-viz
