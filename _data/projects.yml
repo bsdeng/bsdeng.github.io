@@ -10,17 +10,16 @@
     a large amount of staff time and resources for those offices. Federalist hosts over 100 sites and completes over 1,000 builds per week.
     <br/>
     I am currently the engineering lead on this project, building upon the great work of previous 18F developers.
-- name: CALC
-  organization: 18F
-  github_repo: 18f/calc
-  image: calc.png
-  link: https://calc.gsa.gov
+- name: Helmholtz Cage
+  organization: TiSpace
+  github_repo:
+  image:
+  link: https://www.tispace.com/
   about: |
-    <a href="https://calc.gsa.gov">CALC</a> is a web-based tool to help for researching awarded labor rates of federal contracts, with the goal of helping
-    contracting officers better negotiate new rates. I was part of a team that added new data ingestion features to CALC.
+    <a href="https://www.tispace.com/">Helmholtz Cage</a> is composed by three sets of pair coils for each axis. 
+    and its main purpose is to simulate earth's magnetic field. The cage dimension is calculate according to the spacecraft size and the wire gauge must be thick enough.
+    The square shape helmholtz was selected due to easy manufacturing and assembling process.
     <br/>
-    In addition to coding, I also participated in user research sessions and worked through the federal compliance process necessary
-    to get and keep CALC online.
 # - name: CMS Medicaid Provider Charge Data Viz
 #   image: cmsviz.png
 #   link: https://jseppi.github.io/cms-viz
