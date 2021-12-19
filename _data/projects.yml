@@ -38,9 +38,3 @@
     and its main purpose is to simulate earth's magnetic field. The cage dimension is calculate according to the spacecraft size and the wire gauge must be thick enough.
     The square shape helmholtz was selected due to easy manufacturing and assembling process.
     <br/>
-# - name: CMS Medicaid Provider Charge Data Viz
-#   image: cmsviz.png
-#   link: https://jseppi.github.io/cms-viz
-#   github_repo: jseppi/cms-viz
-#   about: |
-    
